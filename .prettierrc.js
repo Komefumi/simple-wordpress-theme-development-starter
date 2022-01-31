@@ -4,6 +4,6 @@ module.exports = {
   singleQuote: false,
   phpVersion: "8.0",
   overrides: [
-    { files: "*.php", options: { parser: "php" } },
+    { files: "*.php", options: { parser: "php", singleQuote: true } },
   ],
 }

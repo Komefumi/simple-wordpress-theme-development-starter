@@ -13,7 +13,7 @@ if (have_posts()):
 <?php
   endwhile;
 else:
-  echo "<p>There are no posts!</p>";
+  echo '<p>There are no posts!</p>';
 endif;
 
 get_footer();
