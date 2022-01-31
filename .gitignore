@@ -1,0 +1,14 @@
+.env
+node_modules
+/
+/readme.html
+/license.txt
+/index.php
+/wp-*.php
+/xmlrpc.php
+/wp-includes
+/wp-admin
+/wp-content/*
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/customtheme
