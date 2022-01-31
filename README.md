@@ -1,4 +1,4 @@
-# Simple Starter Wordpress Theme
+# Simple WordPress Theme Development Starter
 
 This was built following [this](https://vegibit.com/wordpress-theme-development-tutorial-step-by-step/) tutorial by [vegibit](https://vegibit.com/)
 
